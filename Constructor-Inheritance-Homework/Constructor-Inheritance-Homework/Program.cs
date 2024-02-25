@@ -108,17 +108,14 @@ Employee[] GetAllOlderEmployees(Employee[] datas, int age)
 
 // 2) Yashi 20 - ve 30 arasinda olan telebelerin sayini qaytaran method.
 
-Employee[] GetAllEmployeesInAgeInterval(Employee[] datas)
+int CountOfEmployeesInAgeInterval(Employee[] datas)
 {
-    return datas.Where(m => m.age >= 20 && m.age <= 30).ToArray();
+    return datas.Count(m => m.age >= 20 && m.age <= 30);
 }
 
-//var result = GetAllEmployeesInAgeInterval(employees);
+var result = CountOfEmployeesInAgeInterval(employees);
 
-//foreach (var item in result)
-//{
-//    Console.WriteLine($" Id: {item.id} Name: {item.name} Surname: {item.surname} Age: {item.age} Email: {item.email} Address: {item.address}");
-//}
+Console.WriteLine(result);
 
 
 

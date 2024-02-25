@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Constructor-Inheritance-Homework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+772dfdad9c98b66676f597d50e0c38720068682f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Constructor-Inheritance-Homework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Constructor-Inheritance-Homework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

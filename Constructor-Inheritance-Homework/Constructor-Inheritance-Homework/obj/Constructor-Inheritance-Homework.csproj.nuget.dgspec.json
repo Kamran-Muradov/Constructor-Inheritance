@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace Code Academy\\Class-Inheritance\\Constructor-Inheritance-Homework\\Constructor-Inheritance-Homework\\Constructor-Inheritance-Homework.csproj": {}
+    "C:\\Workspace Code Academy\\Constructor-Inheritance\\Constructor-Inheritance-Homework\\Constructor-Inheritance-Homework\\Constructor-Inheritance-Homework.csproj": {}
   },
   "projects": {
-    "C:\\Workspace Code Academy\\Class-Inheritance\\Constructor-Inheritance-Homework\\Constructor-Inheritance-Homework\\Constructor-Inheritance-Homework.csproj": {
+    "C:\\Workspace Code Academy\\Constructor-Inheritance\\Constructor-Inheritance-Homework\\Constructor-Inheritance-Homework\\Constructor-Inheritance-Homework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace Code Academy\\Class-Inheritance\\Constructor-Inheritance-Homework\\Constructor-Inheritance-Homework\\Constructor-Inheritance-Homework.csproj",
+        "projectUniqueName": "C:\\Workspace Code Academy\\Constructor-Inheritance\\Constructor-Inheritance-Homework\\Constructor-Inheritance-Homework\\Constructor-Inheritance-Homework.csproj",
         "projectName": "Constructor-Inheritance-Homework",
-        "projectPath": "C:\\Workspace Code Academy\\Class-Inheritance\\Constructor-Inheritance-Homework\\Constructor-Inheritance-Homework\\Constructor-Inheritance-Homework.csproj",
+        "projectPath": "C:\\Workspace Code Academy\\Constructor-Inheritance\\Constructor-Inheritance-Homework\\Constructor-Inheritance-Homework\\Constructor-Inheritance-Homework.csproj",
         "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace Code Academy\\Class-Inheritance\\Constructor-Inheritance-Homework\\Constructor-Inheritance-Homework\\obj\\",
+        "outputPath": "C:\\Workspace Code Academy\\Constructor-Inheritance\\Constructor-Inheritance-Homework\\Constructor-Inheritance-Homework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
